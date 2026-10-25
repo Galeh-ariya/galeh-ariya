@@ -4,7 +4,7 @@
 
 # Hi, I'm Galeh Ariya Irwana 👋
 
-### Software Engineer • Founder of [Triiitan.com](https://triiitan.com) • AI Automation Enthusiast
+### Software Engineer • Founder of [Triiitan](https://triiitan.hcm-lab.id) • AI Automation Enthusiast
 
 I build reliable, well-structured software and turn complex problems into simple, maintainable solutions.
 As an AI enthusiast, I love exploring how machine learning and LLMs can make applications smarter, more useful, and a pleasure to use.
